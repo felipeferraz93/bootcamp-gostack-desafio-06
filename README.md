@@ -16,9 +16,9 @@ Na Janela de mais detalhes é exibido todos os projetos que usuário marcou como
 #### Prints
 
 <h1 align="center">
-  <img alt="Print01" title="Print01" src=".github/print01.png" width="3000px" />
+  <img alt="Print01" title="Print01" src=".github/print01.png" width="1500px" />
 </h1>
 
 <h1 align="center">
-  <img alt="Print02" title="Print02" src=".github/print2.png" width="3000px" />
+  <img alt="Print02" title="Print02" src=".github/print02.png" width="1500px" />
 </h1>
