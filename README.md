@@ -3,7 +3,7 @@
 </h3>
 
 <h1 align="center">
-  <img alt="Print00" title="Print00" src=".github/print00.jpg" width="600px" />
+  <img alt="Print00" title="Print00" src=".github/print00.png" width="600px" />
 </h1>
 
 
@@ -16,9 +16,9 @@ Na Janela de mais detalhes é exibido todos os projetos que usuário marcou como
 #### Prints
 
 <h1 align="center">
-  <img alt="Print01" title="Print01" src=".github/print01.jpg" width="3000px" />
+  <img alt="Print01" title="Print01" src=".github/print01.png" width="3000px" />
 </h1>
 
 <h1 align="center">
-  <img alt="Print02" title="Print02" src=".github/print2.jpg" width="3000px" />
+  <img alt="Print02" title="Print02" src=".github/print2.png" width="3000px" />
 </h1>
